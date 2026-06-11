@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Matt%C3%A9o%20Destriez%20Terrighi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20CS%20%26%20Software%20Engineering%20%40%20UQAM&descSize=16&descAlignY=56)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Software+Developer+%40+S%C3%BBret%C3%A9+du+Qu%C3%A9bec;CS+%26+Software+Engineering+Student+%40+UQAM;Full-Stack+%7C+Data+Engineering+%7C+ML;Turning+messy+data+into+working+systems)](https://github.com/Matteodt974)
 
@@ -22,7 +21,7 @@
 
 Computer Science & Software Engineering student at **UQAM** (Montréal), currently building production tooling as a **Software Developer at the Sûreté du Québec**. I work across the stack — Python services and ELT pipelines on the backend, Power BI / DAX analytics for end users, and full-stack apps for side projects. I care about systems that actually ship and data that's actually trustworthy.
 
-Lately I've been going deep on **data engineering** (Snowflake + dbt + Airflow) and **applied ML / RAG** — the gap between a demo and something reliable is where the interesting work is.
+Lately I've been going deeper on **data engineering** (Snowflake + dbt + Airflow) and **applied ML / RAG** — the gap between a demo and something reliable is where the interesting work is.
 
 **🟢 Open to:** SWE / ML internships · New-grad roles (2027) · Research collaborations
 
@@ -36,15 +35,13 @@ Lately I've been going deep on **data engineering** (Snowflake + dbt + Airflow) 
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=angular,tailwind,flutter&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=tailwind,flutter&theme=dark)
 
 **Backend & Databases**
 
 ![Backend](https://skillicons.dev/icons?i=spring,flask,fastapi,mysql&theme=dark)
 &nbsp;
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
 **Data & ML**
 
 ![DataML](https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark)
@@ -57,7 +54,6 @@ Lately I've been going deep on **data engineering** (Snowflake + dbt + Airflow) 
 
 ![DevOps](https://skillicons.dev/icons?i=docker,git,github,vscode,maven&theme=dark)
 &nbsp;
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
@@ -68,7 +64,7 @@ Lately I've been going deep on **data engineering** (Snowflake + dbt + Airflow) 
 |---|---|---|
 | **Machine Learning** | Coursework + projects | Stanford Online *Supervised ML* (Andrew Ng) · scikit-learn · PyTorch |
 | **Reinforcement Learning** | Personal project | AlphaZero-style MCTS + self-play for the board game **Hex** (4×4, 8×8) |
-| **Data Engineering & Analytics** | Professional | Python ELT pipelines · Snowflake + dbt · Power BI / DAX models |
+| **Data Engineering & Analytics** | Personnal projects | Python ELT pipelines · Snowflake + dbt · Power BI / DAX models |
 
 ---
 
@@ -87,7 +83,7 @@ End-to-end ELT pipeline that ingests data from a public REST API, lands raw reco
 | **Architecture** | Staging → Fact → Mart layering with warehouse governance |
 | **Orchestration** | Incremental scheduled runs via Airflow DAGs |
 | **Data Quality** | Automated dbt tests to enforce integrity |
-| **Repository** | [`→ add repo link`](https://github.com/Matteodt974) |
+| **Repository** | [`→ still in process`](https://github.com/Matteodt974) |
 
 </details>
 
@@ -103,7 +99,7 @@ Mobile app that reads packaged-food ingredient labels with OCR and cross-referen
 | **Stack** | Flutter · Python / FastAPI · OCR · Computer Vision |
 | **Core** | OCR label parsing → allergen cross-reference against user profile |
 | **ML** | Food recognition from meal photos (best-effort, label-free aid) |
-| **Repository** | [`→ add repo link`](https://github.com/Matteodt974) |
+| **Repository** | [`→ still in progress`](https://github.com/Matteodt974) |
 
 </details>
 
@@ -120,7 +116,7 @@ Full-stack donation and engagement platform built for **Shield of Athena**, a no
 | **Recognition** | 🏆 Morgan Stanley Code to Give — Finalist |
 | **Automation** | Event-driven n8n pipeline: new-event triggers → content generation → publishing |
 | **Impact** | Gamified outreach + recurring-donation flows, eliminating manual posting |
-| **Repository** | [`→ add repo link`](https://github.com/Matteodt974) |
+| **Repository** | [`→ repo link`]([https://github.com/Matteodt974](https://github.com/Matteodt974/CodeToGiveTeam3Montreal)) |
 
 </details>
 
@@ -176,16 +172,6 @@ Building internal data tooling and workforce-management applications used across
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Matteodt974&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -194,19 +180,6 @@ Building internal data tooling and workforce-management applications used across
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matteodt974/Matteodt974/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matteodt974/Matteodt974/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Matteodt974/Matteodt974/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -215,7 +188,7 @@ Building internal data tooling and workforce-management applications used across
 ```yaml
 focus:
   learning:   [" RAG pipelines", "LLM application patterns"]
-  building:   ["End-to-end ELT systems", "Full-stack side projects"]
+  building:   ["End-to-end ELT systems", "MyAm - FullStack project"]
   exploring:  ["Graduate AI programs ", "MLOps"]
   open_to:    ["SWE / ML internships", "New-grad roles (2027)", "Research collaborations"]
 ```
@@ -237,6 +210,5 @@ focus:
 <div align="center">
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
 
 </div>
