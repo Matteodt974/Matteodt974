@@ -2,9 +2,6 @@
 
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Software+Developer+%40+S%C3%BBret%C3%A9+du+Qu%C3%A9bec;CS+%26+Software+Engineering+Student+%40+UQAM;Full-Stack+%7C+Data+Engineering+%7C+ML;Turning+messy+data+into+working+systems)](https://github.com/Matteodt974)
-
 ![UQAM](https://img.shields.io/badge/UQAM-B.S.%20Computer%20Science-8957E5?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Montr%C3%A9al,%20QC-Canada-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -85,7 +82,7 @@ End-to-end ELT pipeline that ingests data from a public REST API, lands raw reco
 | **Architecture** | Staging → Fact → Mart layering with warehouse governance |
 | **Orchestration** | Incremental scheduled runs via Airflow DAGs |
 | **Data Quality** | Automated dbt tests to enforce integrity |
-| **Repository** | [`→ still in process`](https://github.com/Matteodt974) |
+| **Repository** | [`→ still in progress`](https://github.com/Matteodt974) |
 
 </details>
 
@@ -118,7 +115,7 @@ Full-stack donation and engagement platform built for **Shield of Athena**, a no
 | **Recognition** | 🏆 Morgan Stanley Code to Give — Finalist |
 | **Automation** | Event-driven n8n pipeline: new-event triggers → content generation → publishing |
 | **Impact** | Gamified outreach + recurring-donation flows, eliminating manual posting |
-| **Repository** | [`→ repo link`]([https://github.com/Matteodt974](https://github.com/Matteodt974/CodeToGiveTeam3Montreal)) |
+| **Repository** | [`→ repo link`](https://github.com/Matteodt974/CodeToGiveTeam3Montreal)) |
 
 </details>
 
@@ -131,7 +128,6 @@ Full-stack donation and engagement platform built for **Shield of Athena**, a no
 
 Building internal data tooling and workforce-management applications used across recruitment, finance, and team-performance domains.
 
-- Cut data-processing time **~70%** by replacing manual workflows with Python ELT pipelines (Pandas, NumPy) that ingest, clean, and transform data from multiple internal sources.
 - Improved reporting reliability for **150+ users** with real-time workforce-management web apps in Python/Flask, backed by JSON/REST API integration and a relational SQL database.
 - Enabled executive self-serve analytics by designing Power BI data models with DAX measures, replacing the majority of manual Excel reporting.
 
@@ -189,7 +185,7 @@ Building internal data tooling and workforce-management applications used across
 
 ```yaml
 focus:
-  learning:   [" RAG pipelines", "LLM application patterns"]
+  learning:   [" RAG pipelines", "LLM application patterns", "Data Science"]
   building:   ["End-to-end ELT systems", "MyAm - FullStack project"]
   exploring:  ["Graduate AI programs ", "MLOps"]
   open_to:    ["SWE / ML internships", "New-grad roles (2027)", "Research collaborations"]
