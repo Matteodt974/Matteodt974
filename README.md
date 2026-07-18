@@ -157,30 +157,6 @@ Building internal data tooling and workforce-management applications used across
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matteodt974&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://streak-stats.demolab.com?user=Matteodt974&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteodt974&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matteodt974&bg_color=0D1117&color=A855F7&line=8B5CF6&point=C9D1D9&area=true&hide_border=true)
-
-</div>
-
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
