@@ -9,8 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matteodt974)
 [![Email](https://img.shields.io/badge/Email-8957E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteodestriez2@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Matteodt974&label=Profile%20Views&color=8957E5&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Matteodt974?label=Followers&style=for-the-badge&color=8957E5&logo=github&logoColor=white)
 
 </div>
 
